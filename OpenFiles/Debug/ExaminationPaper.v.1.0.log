@@ -1,0 +1,8 @@
+﻿  DirNode.cpp
+C:\Users\27488\source\repos\ExaminationPaper_OOP\ExaminationPaper.v.1.0\DirNode.cpp(7,20): warning C4018: '<': signed/unsigned mismatch
+  Filesystem.cpp
+  Node.cpp
+  client.cpp
+  main.cpp
+  Generating Code...
+  ExaminationPaper.v.1.0.vcxproj -> C:\Users\27488\source\repos\ExaminationPaper_OOP\Debug\ExaminationPaper.v.1.0.exe

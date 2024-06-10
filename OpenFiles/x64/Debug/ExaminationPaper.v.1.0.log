@@ -1,0 +1,10 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (ExaminationPaper.v.1.0.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  client.cpp
+  DirNode.cpp
+  FileNode.cpp
+  main.cpp
+  Node.cpp
+D:\Лекции\ШАГ Programms\ExaminationPaper_OOP\ExaminationPaper.v.1.0\Node.cpp(48,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Tree.cpp
+  Создание кода...
+  ExaminationPaper.v.1.0.vcxproj -> D:\Лекции\ШАГ Programms\ExaminationPaper_OOP\x64\Debug\OpenFiles.exe
